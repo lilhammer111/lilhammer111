@@ -1,5 +1,5 @@
 
-### About me
+### HI STRANGE
 - 🔭 I’m currently working on iston edu
 - 🌱 I’m currently learning how to earn a living...
 - 👯 I’m looking to collaborate on something ridicul
