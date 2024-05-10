@@ -10,9 +10,8 @@
 - 😄 Pronouns: **ruthless code machine (无情码机)**
 - ⚡ Fun fact: hhhhhhhhhhhhhhhhhhhh
 
-<img align="center" width="70%" src="https://github-readme-stats.vercel.app/api?username=lilhammer111&count_private=true&show_icons=true&theme=omni&hide_border=true" alt="Demon's github stats" />
-
-<img align="center" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilhammer111&layout=compact&theme=monokai&hide_border=true" />
+| | |
+|<img align="center" width="70%" src="https://github-readme-stats.vercel.app/api?username=lilhammer111&count_private=true&show_icons=true&theme=omni&hide_border=true" alt="Demon's github stats" />|<img align="center" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilhammer111&layout=compact&theme=monokai&hide_border=true" />|
 <!--
 **lilhammer111/lilhammer111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
