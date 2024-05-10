@@ -1,4 +1,4 @@
-<img alt="Hello, I'm Demon!" src="./assets/demon.png" />
+<img with="100%" alt="Hello, I'm Demon!" src="./assets/demon.png" />
 
 ### HI STRANGE
 - 🔭 I’m currently working on **iston edu**.
