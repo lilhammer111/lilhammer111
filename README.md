@@ -10,7 +10,7 @@
 - 😄 Pronouns: **ruthless code machine (无情码机)**
 - ⚡ Fun fact: hhhhhhhhhhhhhhhhhhhh
 
-<div style="display: flex">
+<div style="display: flex;flex-direction: row">
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=lilhammer111&count_private=true&show_icons=true&include_all_commits=true&theme=omni&hide_border=true" alt="Demon's github stats" />
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilhammer111&layout=compact&theme=monokai&hide_border=true" />
