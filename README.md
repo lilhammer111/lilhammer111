@@ -1,14 +1,13 @@
 <div style='display: flex'>
     <div>
-### ABOUT ME
-- 🔭 I’m currently working on **iston edu**.
-- 🌱 I’m currently learning how to **earn a living...**
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with **earning a living...**
-- 💬 Ask me about ...
-- 📫 How to reach me: wwwwwdemon@gmail.com
-- 😄 Pronouns: **ruthless code machine (无情码机)**
-- ⚡ Fun fact: hhhhhhhhhhhhhhhhhhhh
+ <h3>ABOUT ME</h3>
+<p>🔭 I’m currently working on iston edu.</p>
+<p>🌱 I’m currently learning how to earn a living...</p>
+<p>👯 I’m looking to collaborate on ...</p>
+<p>🤔 I’m looking for help with earning a living...</p>
+<p>💬 Ask me about ...</p>
+<p>📫 How to reach me: wwwwwdemon@gmail.com</p>
+<p>😄 Pronouns: ruthless code machine (无情码机)</p>
     
 <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=lilhammer111&count_private=true&show_icons=true&theme=omni&hide_border=true" alt="Demon's github stats" />
     </div>
