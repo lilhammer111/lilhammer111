@@ -1,5 +1,5 @@
-<img with="100%" alt="Hello, I'm Demon!" src="./assets/demon.png" />
-
+<div style='display: flex'>
+    <div>
 ### ABOUT ME
 - 🔭 I’m currently working on **iston edu**.
 - 🌱 I’m currently learning how to **earn a living...**
@@ -27,3 +27,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+    </div>
+    <div>
+        <img with="100%" alt="Hello, I'm Demon!" src="./assets/demon.png" />
+    </div>
+</div>
+
