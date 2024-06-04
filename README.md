@@ -1,4 +1,4 @@
-<div style='display: flex'>
+<div style='display: flex;flex-direction:column;justify-content:space-between;align-items:center'>
     <div>
  <h3>ABOUT ME</h3>
 <p>🔭 I’m currently working on iston edu.</p>
