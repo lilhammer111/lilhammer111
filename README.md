@@ -1,7 +1,7 @@
 <div style='display: flex;flex-direction:row;justify-content:space-between;align-items:center'>
     <div>
  <h3>ABOUT ME</h3>
-<p>🔭 I’m currently working on iston edu.</p>
+<p>🔭 I am currently in a software development position at a Web3 quantitative fund. </p>
 <p>🌱 I’m currently learning how to earn a living...</p>
 <p>👯 I’m looking to collaborate on ...</p>
 <p>🤔 I’m looking for help with earning a living...</p>
