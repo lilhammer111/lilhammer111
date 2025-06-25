@@ -7,6 +7,6 @@
     <p>🌱 Always learning, always building — especially around Rust, secure systems, and developer tools.</p>
     <p>📫 Contact me: wwwwwdemon@gmail.com</p>
 
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=lilhammer111&count_private=true&show_icons=true&theme=omni&hide_border=true" alt="Demon's github stats" />
+<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=lilhammer111&count_private=true&show_icons=true&theme=omni&hide_border=true" alt="Demon's github stats" />
   </div>
 </div>
