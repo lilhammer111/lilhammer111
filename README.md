@@ -1,4 +1,4 @@
-<img width="1044" height="1232" alt="image" src="https://github.com/user-attachments/assets/567228bf-49b9-41fe-936d-546b01c0505d" /><div style='display: flex; flex-direction: row; justify-content: space-between; align-items: center'>
+<div style='display: flex; flex-direction: row; justify-content: space-between; align-items: center'>
   <div>
     <h3>ABOUT ME</h3>
     <p>🔭 I'm currently a Software Engineer at <a href="https://www.avinasi.ai" target="_blank">Avinasi Labs</a>, building secure infrastructure for biomedical data using Web3 and AI.</p>
@@ -15,6 +15,9 @@
     
    <p>🤝 I'm always open to discussions around blockchain, tech, and education. Don’t hesitate to reach out — whether it’s to share ideas, collaborate, or just learn from each other!</p>
 
-   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=lilhammer111&count_private=true&show_icons=true&theme=omni&hide_border=true" alt="Demon's github stats" />
+  <div style='display: flex; flex-direction: row; justify-content: space-between; align-items: center'>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lilhammer111&count_private=true&show_icons=true&theme=omni&hide_border=true" alt="Demon's github stats" />
+    <img width="1044" height="1232" alt="image" src="https://github.com/user-attachments/assets/567228bf-49b9-41fe-936d-546b01c0505d" />
+</div>
   </div>
 </div>
