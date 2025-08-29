@@ -1,4 +1,4 @@
-<div style='display: flex; flex-direction: row; justify-content: space-between; align-items: center'>
+<img width="2088" height="2464" alt="image" src="https://github.com/user-attachments/assets/567228bf-49b9-41fe-936d-546b01c0505d" /><div style='display: flex; flex-direction: row; justify-content: space-between; align-items: center'>
   <div>
     <h3>ABOUT ME</h3>
     <p>🔭 I'm currently a Software Engineer at <a href="https://www.avinasi.ai" target="_blank">Avinasi Labs</a>, building secure infrastructure for biomedical data using Web3 and AI.</p>
@@ -11,7 +11,7 @@
     
    <p>🌐 Personal site: <a href="https://lilhammer.fun" target="_blank">lilhammer.fun</a></p>
    <p>📫 Contact me: <a href="mailto:wwwwwdemon@gmail.com">wwwwwdemon@gmail.com</a></p>
-   <p>💬 Telegram: <a href="https://t.me/yourtelegramhandle" target="_blank">@yourtelegramhandle</a></p>
+   <p>💬 Telegram: <a href="https://t.me/wwwwwdemon" target="_blank">@wwwwwdemon</a></p>
     
    <p>🤝 I'm always open to discussions around blockchain, tech, and education. Don’t hesitate to reach out — whether it’s to share ideas, collaborate, or just learn from each other!</p>
 
