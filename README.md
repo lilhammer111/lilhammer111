@@ -1,4 +1,4 @@
-<img width="2088" height="2464" alt="image" src="https://github.com/user-attachments/assets/567228bf-49b9-41fe-936d-546b01c0505d" /><div style='display: flex; flex-direction: row; justify-content: space-between; align-items: center'>
+<img width="1044" height="1232" alt="image" src="https://github.com/user-attachments/assets/567228bf-49b9-41fe-936d-546b01c0505d" /><div style='display: flex; flex-direction: row; justify-content: space-between; align-items: center'>
   <div>
     <h3>ABOUT ME</h3>
     <p>🔭 I'm currently a Software Engineer at <a href="https://www.avinasi.ai" target="_blank">Avinasi Labs</a>, building secure infrastructure for biomedical data using Web3 and AI.</p>
